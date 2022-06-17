@@ -6,7 +6,7 @@ public interface IResult
     bool Succeeded { get; }
 }
 
-public interface IResult<TData> : IResult
+public interface IResult<out TData> : IResult
 {
     TData Data { get; }
 }
