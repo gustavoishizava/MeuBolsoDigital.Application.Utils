@@ -1,6 +1,6 @@
-using MeuBolsoDigital.Application.Utils.Response.Interfaces;
+using MeuBolsoDigital.Application.Utils.Responses.Interfaces;
 
-namespace MeuBolsoDigital.Application.Utils.Response
+namespace MeuBolsoDigital.Application.Utils.Responses
 {
     public class Result : IResult
     {

@@ -1,4 +1,4 @@
-namespace MeuBolsoDigital.Application.Utils.Response.Interfaces;
+namespace MeuBolsoDigital.Application.Utils.Responses.Interfaces;
 
 public interface IResult
 {
