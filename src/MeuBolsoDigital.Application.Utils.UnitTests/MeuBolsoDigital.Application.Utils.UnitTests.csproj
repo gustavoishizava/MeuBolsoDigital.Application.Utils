@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MeuBolsoDigital.Application.Utils\MeuBolsoDigital.Application.Utils.csproj" />
+  </ItemGroup>
+
 </Project>
